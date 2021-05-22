@@ -1,0 +1,39 @@
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+/* ANASAYFA */
+
+p {
+  font-size: 20px;
+}
+
+/* HAKKINDA */
+
+.anitkabir {
+  border: 1px solid black;
+}
+.okul {
+  border: 1px solid black;
+}
+
+.bebek {
+  border: 1px solid black;
+}
+
+#hobiler-baslik {
+  color: #273e47;
+}
+
+/* OZGECMİS */
+
+.foto {
+  border-radius: 50%;
+  border: 1px solid black;
+}
+
+.cv .list-group-item {
+  background-color: #343a40;
+
+  color: #f8f9fa;
+}
